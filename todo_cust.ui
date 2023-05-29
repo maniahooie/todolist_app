@@ -32,7 +32,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../_21x_23hbt7o69_72-Desktop-Backgrounds-Ocean-on-WallpaperSafari.jpg</pixmap>
+     <pixmap>../todolist-app/_21x_23hbt7o69_72-Desktop-Backgrounds-Ocean-on-WallpaperSafari.jpg</pixmap>
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_2">
